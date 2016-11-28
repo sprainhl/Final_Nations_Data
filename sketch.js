@@ -24,7 +24,7 @@ function preload(){
 
 function setup(){
   colors = [color(200,65,190),color(120,5,158),color(255,200,20),color(20,50,98),color(180,60,40),color(96,181,75)];
-  createCanvas(1500,1000);
+  createCanvas(1500,1005);
   angleMode(DEGREES);
   inputRange = width/2;
   //specify the input range at 750
